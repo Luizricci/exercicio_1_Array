@@ -1,0 +1,7 @@
+ler texto
+transformar todas as caractéres em caractéres minúsculas
+separar cada letra do texto utilizando ""
+filtrar as caractéres "a", "e", "i", "o", "u" (vogais) que estão incluídas dentro da let separar
+exiba o texto mínusculo
+exiba quais vogais tem, separadas por ", "
+exiba número de vogais
